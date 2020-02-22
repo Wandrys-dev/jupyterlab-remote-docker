@@ -1,5 +1,5 @@
 
-# Remote docker development
+# Remote jupyterlab docker development
 
 This is a small repo to solve some issues regarding how I like to work with experimenting with approaches at home. 
 
